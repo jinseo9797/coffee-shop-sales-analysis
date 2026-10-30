@@ -14,6 +14,12 @@
 
 **프로젝트 성격:** 공개된 가상 판매 데이터를 독립적으로 분석한 개인 프로젝트이며, 실제 매장 운영 데이터나 외부 기업과의 공동 프로젝트가 아닙니다.
 
+
+## Tableau Dashboard
+
+![Coffee Shop Sales Dashboard](dashboard.png)
+
+
 ## 2. 비즈니스 질문
 
 1. 매장 간 매출 차이는 거래 기록 수 때문인지, 기록당 판매 금액 때문인지?
@@ -171,7 +177,3 @@ coffee_shop_portfolio/
 - [Maven Analytics - Coffee Shop Sales](https://mavenanalytics.io/data-playground/coffee-shop-sales) · 가상 거래 데이터 / Public Domain 표기
 
 ---
-
-## Tableau Dashboard
-
-![Coffee Shop Sales Dashboard](dashboard.png)
