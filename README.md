@@ -174,4 +174,4 @@ coffee_shop_portfolio/
 
 ## Tableau Dashboard
 
-![Coffee Shop Sales Dashboard](images/dashboard.png)
+![Coffee Shop Sales Dashboard](dashboard.png)
