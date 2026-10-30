@@ -171,3 +171,7 @@ coffee_shop_portfolio/
 - [Maven Analytics - Coffee Shop Sales](https://mavenanalytics.io/data-playground/coffee-shop-sales) · 가상 거래 데이터 / Public Domain 표기
 
 ---
+
+## Tableau Dashboard
+
+![Coffee Shop Sales Dashboard](images/dashboard.png)
