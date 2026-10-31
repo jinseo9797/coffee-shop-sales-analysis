@@ -120,7 +120,7 @@ Lower Manhattan은 거래 기록 수가 가장 적지만 기록당 매출과 수
 
 ## 5. Tableau 대시보드
 
-[Tableau 통합 문서 열기](tableau/Coffee_Shop_Sales_Dashboard.twbx)
+[Tableau 통합 문서 열기](dashboard.png)
 
 실제 작업한 Tableau Public Edition 통합 문서입니다. 다음 항목을 구현했습니다.
 
