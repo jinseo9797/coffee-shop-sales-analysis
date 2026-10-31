@@ -50,7 +50,9 @@
 
 ## 4. Tableau 대시보드
 
-[Tableau 통합 문서 보기 (.twbx)]![Coffee Shop Sales Dashboard](images/dashboard.png)
+![Coffee Shop Sales Dashboard](images/dashboard.png)
+
+[Tableau 파일](tableau/Coffee_Shop_Sales_Dashboard.twbx)
 
 매장별 성과를 선택해서 탐색할 수 있도록 다음 항목을 구성했습니다.
 
